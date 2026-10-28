@@ -1,0 +1,8 @@
+# Berkas lokal editor dan sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+.env
+# Folder bukti tetap ikut diunggah.
