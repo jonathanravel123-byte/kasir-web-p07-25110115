@@ -15,7 +15,7 @@ dan encoding keluaran HTML menggunakan htmlspecialchars.
 2. Simpan folder proyek di C:\xampp\htdocs\kasir-web-p07-NIM.
 3. Ganti NIM pada nama folder dengan NIM mahasiswa.
 4. Jalankan Apache melalui XAMPP Control Panel.
-5. Buka http://localhost/kasir-web-p07-NIM/ dengan nama folder yang sebenarnya.
+5. Buka http://localhost/kasir-web-p07-25110115/ dengan nama folder yang sebenarnya.
 6. Tidak memerlukan MySQL, Composer, atau koneksi internet untuk menjalankan aplikasi lokal.
 
 ## Isi proyek
